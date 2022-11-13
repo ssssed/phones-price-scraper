@@ -1,0 +1,42 @@
+[
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/1713926566-galaxy-z-fold-4.jpg",
+        "name": "Galaxy Z Fold4",
+        "price": "$720"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/3749755546-galaxy-z-fold-3-5g.png",
+        "name": "Galaxy Z Fold3 5G",
+        "price": "$540"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/2989877877-galaxy-z-fold-2-5g.jpg",
+        "name": "Galaxy Z Fold2 5G",
+        "price": "$480"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/1049642440-galaxy-fold.jpeg",
+        "name": "Galaxy Fold",
+        "price": "$280"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/1635071460-galaxy-z-flip4.jpg",
+        "name": "Galaxy Z Flip4",
+        "price": "$450"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/149653949-galaxy-z-flip3-5g.jpeg",
+        "name": "Galaxy Z Flip3 5G",
+        "price": "$372"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/3678444190-galaxy-z-flip-5g.jpg",
+        "name": "Galaxy Z Flip 5G",
+        "price": "$190"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/510171114-galaxy-z-flip.jpg",
+        "name": "Galaxy Z Flip",
+        "price": "$190"
+    }
+]

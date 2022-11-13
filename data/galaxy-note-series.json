@@ -1,0 +1,47 @@
+[
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/349597790-galaxy-note-20-ultra-5g.jpg",
+        "name": "Galaxy Note 20 Ultra 5G",
+        "price": "$440"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/2935067016-galaxy-note-20-ultra.jpg",
+        "name": "Galaxy Note 20 Ultra",
+        "price": "$427"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/3855723643-galaxy-note-20-5g.jpg",
+        "name": "Galaxy Note 20 5G",
+        "price": "$292"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/942842953-galaxy-note-10-plus-5g.jpg",
+        "name": "Galaxy Note 10 Plus 5G",
+        "price": "$246"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/3109289112-galaxy-note-10-plus.jpg",
+        "name": "Galaxy Note 10 Plus",
+        "price": "$209"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/593097849-galaxy-note-10-lite.png",
+        "name": "Galaxy Note 10 Lite",
+        "price": "$178"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/989679997-galaxy-note-10.jpg",
+        "name": "Galaxy Note 10",
+        "price": "$155"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/3156438953-galaxy-note-9.jpg",
+        "name": "Galaxy Note 9",
+        "price": "$147"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/2664529197-galaxy-note-8.jpg",
+        "name": "Galaxy Note 8",
+        "price": "$141"
+    }
+]

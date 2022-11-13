@@ -1,0 +1,132 @@
+[
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/576663552-galaxy-s22-ultra-5g.png",
+        "name": "Galaxy S22 Ultra 5G",
+        "price": "$661"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/2271209195-galaxy-s22-plus-5g.png",
+        "name": "Galaxy S22 Plus 5G",
+        "price": "$452"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/1737064643-galaxy-s22-5g.png",
+        "name": "Galaxy S22 5G",
+        "price": "$373"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/29651729-galaxy-s21-ultra-5g.jpg",
+        "name": "Galaxy S21 Ultra 5G",
+        "price": "$460"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/4227422926-galaxy-s21-ultra.jpg",
+        "name": "Galaxy S21 Ultra",
+        "price": "$460"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/3863147534-galaxy-s21-plus-5g.jpg",
+        "name": "Galaxy S21 Plus 5G",
+        "price": "$321"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/1230963437-galaxy-s21-5g.jpg",
+        "name": "Galaxy S21 5G",
+        "price": "$272"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/1161992714-galaxy-s21-fe-5g.jpg",
+        "name": "Galaxy S21 FE 5G",
+        "price": "$270"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/1662465514-galaxy-s20-ultra-5g.jpg",
+        "name": "Galaxy S20 Ultra 5G",
+        "price": "$310"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/457419575-galaxy-s20-ultra.jpg",
+        "name": "Galaxy S20 Ultra",
+        "price": "$364"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/2477807951-galaxy-s20-plus-5g.jpg",
+        "name": "Galaxy S20 Plus 5G",
+        "price": "$261"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/3494594541-galaxy-s20-plus.jpg",
+        "name": "Galaxy S20 Plus",
+        "price": "$261"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/888763160-galaxy-s20-5g.jpg",
+        "name": "Galaxy S20 5G",
+        "price": "$195"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/781423586-galaxy-s20.jpg",
+        "name": "Galaxy S20",
+        "price": "$215"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/2576243654-galaxy-s20-fe-5g.jpg",
+        "name": "Galaxy S20 FE 5G",
+        "price": "$200"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/1108508321-galaxy-s20-fe.jpg",
+        "name": "Galaxy S20 FE",
+        "price": "$207"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/3375240492-galaxy-s10-plus.jpg",
+        "name": "Galaxy S10 Plus",
+        "price": "$228"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/2627063233-galaxy-s10-5g.jpg",
+        "name": "Galaxy S10 5G",
+        "price": "$151"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/918173991-galaxy-s10.jpg",
+        "name": "Galaxy S10",
+        "price": "$146"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/3206985572-galaxy-s10-lite.jpg",
+        "name": "Galaxy S10 Lite",
+        "price": "$70"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/3199238653-galaxy-s10e.jpg",
+        "name": "Galaxy S10e",
+        "price": "$121"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/2035937491-galaxy-s9-plus.jpg",
+        "name": "Galaxy S9 Plus",
+        "price": "$125"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/691824927-galaxy-s9.jpg",
+        "name": "Galaxy S9",
+        "price": "$90"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/1281504969-galaxy-s8-plus.jpg",
+        "name": "Galaxy S8 Plus",
+        "price": "$61"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/3000849316-galaxy-s8-active.jpg",
+        "name": "Galaxy S8 Active",
+        "price": "$35"
+    },
+    {
+        "img": "https://www.itsworthmore.com/media/cache/opt-resize/300x300/520450604-galaxy-s8.jpg",
+        "name": "Galaxy S8",
+        "price": "$46"
+    }
+]
